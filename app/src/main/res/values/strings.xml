@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sanchit Verma\nFeed Dino</string>
+    <string name="feed_apple">Feed apple</string>
+    <string name="feed_dyno_info">You need to feed him 5 to help\nhim get to the next stage</string>
+    <string name="meet_dyno_your_new_pet">Meet Dyno, your new pet</string>
+    <string name="congrats_text">Congratulations! Dyno has grown big and\nstrong with your help</string>
+    <string name="play_again">Play again</string>
+    <string name="you_won">You won!</string>
+    <string name="stage5">STAGE 5</string>
+    <string name="stage4">STAGE 4</string>
+    <string name="stage3">STAGE 3</string>
+    <string name="stage2">STAGE 2</string>
+    <string name="stage1">STAGE 1</string>
+</resources>
